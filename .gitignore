@@ -1,0 +1,4 @@
+echo "venv/" >> .gitignore
+echo ".env" >> .gitignore
+echo "tasks.db" >> .gitignore
+echo "__pycache__/" >> .gitignore
